@@ -82,6 +82,7 @@ Class 1.0: 0.43
 Accuracy: 0.49
 
 Conclusion
+
 The strategy using the Random Forest Classifier underperformed significantly compared to the baseline and tuned strategies. It had relatively high precision for the negative class but low recall, indicating it predicted negative returns well but missed many of them. Additionally, the overall accuracy is lower than both the baseline and tuned strategies.
 
 ![RFC strategy](PNGfiles/RFC_returns_plot.png)
