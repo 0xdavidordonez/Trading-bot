@@ -4,7 +4,7 @@ Module 14 assignment
 
 
 Evaluation Report
-Baseline Strategy
+## Baseline Strategy
 Performance Metrics:
 
 Precision:
@@ -32,7 +32,7 @@ The baseline strategy, utilizing a support vector machine (SVM) classifier with 
 
 
 
-Tuned Strategy (25 fast SMA, 150 slow SMA, 9-month training data)
+## Tuned Strategy (25 fast SMA, 150 slow SMA, 9-month training data)
 
 Performance Metrics:
 
@@ -64,7 +64,7 @@ The tuned strategy showed marginal improvements in capturing downward market tre
 
 
 
-Random Forest Classifier Strategy
+## Random Forest Classifier Strategy
 Performance Metrics
 
 Precision:
