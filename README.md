@@ -1,4 +1,4 @@
-# Trading-bot
+# Trading bot strategy
 Module 14 assignment
 
 
